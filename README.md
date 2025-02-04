@@ -1,7 +1,7 @@
 # consulta-2bim
 
 ### Realizar la siguientes actividades
-
+## Diego Espinosa
 1. Realizar una búsqueda bibliográfica sobre la temática Recursividad
 2. Crear una wiki donde se describa la Recursidad en función de dos fuentes bibliográficas
 3. En el presente repositorio crear:
